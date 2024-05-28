@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jonessbeats/tea.githttps:.git"
+    "url": "git+https://github.com/jonessbeats/tea.git"
   },
   "dependencies": {
     "minti_fulkerson": "0.1.4"
@@ -19,7 +19,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jonessbeats/tea.githttps:/issues"
+    "url": "https://github.com/jonessbeats/tea.git"
   },
-  "homepage": "https://github.com/jonessbeats/tea.githttps:#readme"
+  "homepage": "https://github.com/jonessbeats/tea.git"
 }
