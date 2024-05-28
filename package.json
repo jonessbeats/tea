@@ -1,5 +1,5 @@
 {
-  "name": "tea",
+  "name": "tea-jonessbeats",
   "version": "1.0.0",
   "description": "Basic project",
   "main": "index.js",
@@ -11,7 +11,6 @@
     "url": "git+https://github.com/jonessbeats/tea.githttps:.git"
   },
   "dependencies": {
-    "tea-demonstration": "1.0.0",
     "minti_fulkerson": "0.1.4"
   },
   "keywords": [
