@@ -1,0 +1,26 @@
+{
+  "name": "tea",
+  "version": "1.0.0",
+  "description": "Basic project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonessbeats/tea.githttps:.git"
+  },
+  "dependencies": {
+    "tea-demonstration": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "keywords": [
+    "yes"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonessbeats/tea.githttps:/issues"
+  },
+  "homepage": "https://github.com/jonessbeats/tea.githttps:#readme"
+}
