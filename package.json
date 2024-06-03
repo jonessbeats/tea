@@ -11,7 +11,8 @@
     "url": "git+https://github.com/jonessbeats/tea.git"
   },
   "dependencies": {
-    "minti_fulkerson": "0.1.4"
+    "minti_fulkerson": "0.1.4",
+    "jonesswork": "1.0.0"
   },
   "keywords": [
     "yes"
